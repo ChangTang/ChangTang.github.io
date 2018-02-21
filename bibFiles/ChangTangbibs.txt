@@ -1,0 +1,168 @@
+
+@article{tang2018robustSRMR,
+  title={Robust Unsupervised Feature Selection via Dual Self-representation and Manifold Regularization},
+  author={Tang, Chang and Liu, Xinwang and Li, Miaomiao and Wang, Pichao and Chen, Jiajia and Wang, Lizhe and Li, Wanqing},
+  journal={Knowledge-Based Systems},
+  volume={145},
+  pages={109-120},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{tang2018robust,
+  title={Robust graph regularized unsupervised feature selection},
+  author={Tang, Chang and Zhu, Xinzhong and Chen, Jiajia and Wang, Pichao and Liu, Xinwang and Tian, Jie},
+  journal={Expert Systems with Applications},
+  volume={96},
+  pages={64--76},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{tang2017speckle,
+  title={Speckle noise reduction for optical coherence tomography images via non-local weighted group low-rank representation},
+  author={Tang, Chang and Cao, Lijuan and Chen, Jiajia and Zheng, Xiao},
+  journal={Laser Physics Letters},
+  volume={14},
+  number={5},
+  pages={056002},
+  year={2017},
+  publisher={IOP Publishing}
+}
+
+@article{tang2017salient,
+  title={Salient Object Detection via Weighted Low Rank Matrix Recovery},
+  author={Tang, Chang and Wang, Pichao and Zhang, Changqing and Li, Wanqing},
+  journal={IEEE Signal Processing Letters},
+  volume={24},
+  number={4},
+  pages={490--494},
+  year={2017},
+  publisher={IEEE}
+}
+
+@article{tang2017gene,
+  title={Gene selection for microarray data classification via subspace learning and manifold regularization},
+  author={Tang, Chang and Cao, Lijuan and Zheng, Xiao and Wang, Minhui},
+  journal={Medical \& biological engineering \& computing},
+  pages={1--14},
+  year={2017},
+  publisher={Springer}
+}
+
+@article{tang2017effective,
+  title={An effective edge-preserving smoothing method for image manipulation},
+  author={Tang, Chang and Hou, Chunping and Hou, Yonghong and Wang, Pichao and Li, Wanqing},
+  journal={Digital Signal Processing},
+  volume={63},
+  pages={10--24},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@inproceedings{wang2017scene,
+  title={Scene flow to action map: A new representation for RGB-D based action recognition with convolutional neural networks},
+  author={Wang, Pichao and Li, Wanqing and Gao, Zhimin and Zhang, Yuyao and Tang, Chang and Ogunbona, Philip},
+  booktitle={IEEE Conference on Computer Vision and Pattern Recognition},
+  pages={595--604},
+  year={2017}
+}
+
+@article{zhang2016rgb,
+  title={RGB-D-based action recognition datasets: A survey},
+  author={Zhang, Jing and Li, Wanqing and Ogunbona, Philip O and Wang, Pichao and Tang, Chang},
+  journal={Pattern Recognition},
+  volume={60},
+  pages={86--105},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{tang2016spectral,
+  title={A Spectral and Spatial Approach of Coarse-to-Fine Blurred Image Region Detection},
+  author={Tang, Chang and Wu, Jin and Hou, Yonghong and Wang, Pichao and Li, Wanqing},
+  journal={IEEE Signal Processing Letters},
+  volume={23},
+  number={11},
+  pages={1652--1656},
+  year={2016},
+  publisher={IEEE}
+}
+
+@article{tang2016salient,
+  title={Salient object detection using color spatial distribution and minimum spanning tree weight},
+  author={Tang, Chang and Hou, Chunping and Wang, Pichao and Song, Zhanjie},
+  journal={Multimedia Tools and Applications},
+  volume={75},
+  number={12},
+  pages={6963--6978},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{wang2016action,
+  title={Action recognition from depth maps using deep convolutional neural networks},
+  author={Wang, Pichao and Li, Wanqing and Gao, Zhimin and Zhang, Jing and Tang, Chang and Ogunbona, Philip O},
+  journal={IEEE Transactions on Human-Machine Systems},
+  volume={46},
+  number={4},
+  pages={498--509},
+  year={2016},
+  publisher={IEEE}
+}
+
+@article{wang2016combining,
+  title={Combining convnets with hand-crafted features for action recognition based on an HMM-SVM classifier},
+  author={Wang, Pichao and Li, Zhaoyang and Hou, Yonghong and Li, Wanqing},
+  journal={arXiv preprint arXiv:1602.00749},
+  year={2016}
+}
+
+@inproceedings{wang2016large,
+  title={Large-scale isolated gesture recognition using convolutional neural networks},
+  author={Wang, Pichao and Li, Wanqing and Liu, Song and Gao, Zhimin and Tang, Chang and Ogunbona, Philip},
+  booktitle={Pattern Recognition (ICPR), 2016 23rd International Conference on},
+  pages={7--12},
+  year={2016},
+  organization={IEEE}
+}
+
+@article{tang2015depth,
+  title={Depth recovery and refinement from a single image using defocus cues},
+  author={Tang, Chang and Hou, Chunping and Song, Zhanjie},
+  journal={Journal of Modern Optics},
+  volume={62},
+  number={6},
+  pages={441--448},
+  year={2015},
+  publisher={Taylor \& Francis}
+}
+
+
+@inproceedings{wang2015beyond,
+  title={Beyond covariance: Feature representation with nonlinear kernel matrices},
+  author={Wang, Lei and Zhang, Jianjia and Zhou, Luping and Tang, Chang and Li, Wanqing},
+  booktitle={Proceedings of the IEEE International Conference on Computer Vision},
+  pages={4570--4578},
+  year={2015}
+}
+
+@inproceedings{wang2015convnets,
+  title={Convnets-based action recognition from depth maps through virtual cameras and pseudocoloring},
+  author={Wang, Pichao and Li, Wanqing and Gao, Zhimin and Tang, Chang and Zhang, Jing and Ogunbona, Philip},
+  booktitle={Proceedings of the 23rd ACM international conference on Multimedia},
+  pages={1119--1122},
+  year={2015},
+  organization={ACM}
+}
+
+@article{tang2013defocus,
+  title={Defocus map estimation from a single image via spectrum contrast},
+  author={Tang, Chang and Hou, Chunping and Song, Zhanjie},
+  journal={Optics letters},
+  volume={38},
+  number={10},
+  pages={1706--1708},
+  year={2013},
+  publisher={Optical Society of America}
+}
