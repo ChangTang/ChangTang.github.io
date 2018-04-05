@@ -1,3 +1,13 @@
+@article{Pichao2018ITMM, 
+author={Wang, Pichao and Li, Wanqing and Gao, Zhimin and Tang, Chang and and Philip, Ogunbona}, 
+journal={IEEE Transactions on Multimedia}, 
+title={Depth Pooling Based Large-scale 3D Action Recognition with Convolutional Neural Networks}, 
+year={2018}, 
+volume={PP}, 
+number={99}, 
+pages={1-1}, 
+doi={10.1109/TMM.2018.2818329}, 
+}
 
 @article{tang2018robustSRMR,
   title={Robust Unsupervised Feature Selection via Dual Self-representation and Manifold Regularization},
