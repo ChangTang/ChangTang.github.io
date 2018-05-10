@@ -3,9 +3,9 @@ author={Wang, Pichao and Li, Wanqing and Gao, Zhimin and Tang, Chang and and Phi
 journal={IEEE Transactions on Multimedia}, 
 title={Depth Pooling Based Large-scale 3D Action Recognition with Convolutional Neural Networks}, 
 year={2018}, 
-volume={PP}, 
-number={99}, 
-pages={1-1}, 
+volume={20}, 
+number={5}, 
+pages={1051-1061}, 
 doi={10.1109/TMM.2018.2818329}, 
 }
 
