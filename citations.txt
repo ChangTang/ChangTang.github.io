@@ -1,0 +1,64 @@
+@article{Jiang2014TPSLVM,
+  title={TPSLVM: a dimensionality reduction algorithm based on thin plate splines.},
+  author={Jiang, X. and Gao, J. and Wang, T. and Shi, D.},
+  journal={IEEE Transactions on Cybernetics},
+  volume={44},
+  number={10},
+  pages={1795-1807},
+  year={2014},
+}
+
+@article{tang2018robustSRMR,
+  title={Robust Unsupervised Feature Selection via Dual Self-representation and Manifold Regularization},
+  author={Tang, Chang and Liu, Xinwang and Li, Miaomiao and Wang, Pichao and Chen, Jiajia and Wang, Lizhe and Li, Wanqing},
+  journal={Knowledge-Based Systems},
+  volume={145},
+  pages={109-120},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{tang2018robust,
+  title={Robust graph regularized unsupervised feature selection},
+  author={Tang, Chang and Zhu, Xinzhong and Chen, Jiajia and Wang, Pichao and Liu, Xinwang and Tian, Jie},
+  journal={Expert Systems with Applications},
+  volume={96},
+  pages={64--76},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{tang2017gene,
+  title={Gene selection for microarray data classification via subspace learning and manifold regularization},
+  author={Tang, Chang and Cao, Lijuan and Zheng, Xiao and Wang, Minhui},
+  journal={Medical \& biological engineering \& computing},
+  pages={1--14},
+  year={2018},
+  publisher={Springer}
+}
+
+@article{Li2017Comparison,
+  title={Comparison and integration of feature reduction methods for land cover classification with RapidEye imagery},
+  author={Li, Xianju and Chen, Weitao and Cheng, Xinwen and Liao, Yiwei and Chen, Gang},
+  journal={Multimedia Tools and Applications},
+  pages={1-17},
+  year={2017},
+}
+
+@article{Chen2016EPLS,
+  title={EPLS: A novel feature extraction method for migration data clustering},
+  author={Chen, Yunliang and Li, Fangyuan and Chen, Jia and Du, Bo and Choo, Kim Kwang Raymond and Hassan, Houcine},
+  journal={Journal of Parallel and Distributed Computing},
+  volume={103},
+  year={2016},
+}
+
+@article{Wang2016Link,
+  title={Link the remote sensing big data to the image features via wavelet transformation},
+  author={Wang, Lizhe and Song, Weijing and Liu, Peng},
+  journal={Cluster Computing},
+  volume={19},
+  number={2},
+  pages={793¨C-810},
+  year={2016},
+}
