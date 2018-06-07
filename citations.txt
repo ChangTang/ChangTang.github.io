@@ -59,6 +59,16 @@
   journal={Cluster Computing},
   volume={19},
   number={2},
-  pages={793¨C-810},
+  pages={793Â¨C-810},
   year={2016},
+}
+
+@article{Wang2017Spectral,
+  title={Spectral---spatial multi-feature-based deep learning for hyperspectral remote sensing image classification},
+  author={Wang, Lizhe and Zhang, Jiabin and Liu, Peng and Choo, Kim Kwang Raymond and Huang, Fang},
+  journal={Soft Computing},
+  volume={21},
+  number={1},
+  pages={213-221},
+  year={2017},
 }
