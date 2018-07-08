@@ -55,8 +55,10 @@ doi={10.1109/TMM.2018.2818329},
   title={Gene selection for microarray data classification via subspace learning and manifold regularization},
   author={Tang, Chang and Cao, Lijuan and Zheng, Xiao and Wang, Minhui},
   journal={Medical \& biological engineering \& computing},
-  pages={1--14},
-  year={2017},
+  volume={56},
+  number={7},
+  pages={1271–1284},
+  year={2018},
   publisher={Springer}
 }
 
