@@ -1,3 +1,28 @@
+@article{Tang2018OnlineCov,
+  title={Saliency Detection via Affinity Graph Learning and Weighted Manifold Ranking},
+  author={Tang, Chang and Li, Wanqing and Wang, Pichao and Wang, Lizhe},
+  journal={Information Sciences},
+  volume={467}, 
+  pages={219-237},
+  year={2018},
+}
+
+@article{Tang2018MVUFS,
+  title={Saliency Detection via Affinity Graph Learning and Weighted Manifold Ranking},
+  author={Tang, Chang and Chen, Jiajia and Liu, Xinwang and Li, Miaomiao and Wang, Pichao and Wang, Minhui and Lu, Peng},
+  journal={Knowledge-Based Systems},
+  year={2018},
+}
+
+@article{Zhu2018Saliency,
+  title={Saliency Detection via Affinity Graph Learning and Weighted Manifold Ranking ☆},
+  author={Zhu, Xinzhong and Tang, Chang and Wang, Pichao and Xu, Huiying and Wang, Minhui and Tian, Jie},
+  journal={Neurocomputing},
+  volume={312}, 
+  pages={239-250},
+  year={2018},
+}
+
 @article{Pichao2018ITMM, 
 author={Wang, Pichao and Li, Wanqing and Gao, Zhimin and Tang, Chang and and Philip, Ogunbona}, 
 journal={IEEE Transactions on Multimedia}, 
