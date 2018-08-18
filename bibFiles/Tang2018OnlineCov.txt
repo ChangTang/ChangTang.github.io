@@ -1,0 +1,8 @@
+@article{Tang2018OnlineCov,
+  title={Saliency Detection via Affinity Graph Learning and Weighted Manifold Ranking},
+  author={Tang, Chang and Li, Wanqing and Wang, Pichao and Wang, Lizhe},
+  journal={Information Sciences},
+  volume={467}, 
+  pages={219-237},
+  year={2018},
+}
