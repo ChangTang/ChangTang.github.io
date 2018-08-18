@@ -1,0 +1,6 @@
+@article{Tang2018MVUFS,
+  title={Saliency Detection via Affinity Graph Learning and Weighted Manifold Ranking},
+  author={Tang, Chang and Chen, Jiajia and Liu, Xinwang and Li, Miaomiao and Wang, Pichao and Wang, Minhui and Lu, Peng},
+  journal={Knowledge-Based Systems},
+  year={2018},
+}
