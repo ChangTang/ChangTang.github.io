@@ -1,5 +1,5 @@
 @article{Tang2018OnlineCov,
-  title={Saliency Detection via Affinity Graph Learning and Weighted Manifold Ranking},
+  title={Online Human Action Recognition based on Incremental Learning of Weighted Covariance Descriptors},
   author={Tang, Chang and Li, Wanqing and Wang, Pichao and Wang, Lizhe},
   journal={Information Sciences},
   volume={467}, 
@@ -8,7 +8,7 @@
 }
 
 @article{Tang2018MVUFS,
-  title={Saliency Detection via Affinity Graph Learning and Weighted Manifold Ranking},
+  title={Consensus Learning Guided Multi-view Unsupervised Feature Selection},
   author={Tang, Chang and Chen, Jiajia and Liu, Xinwang and Li, Miaomiao and Wang, Pichao and Wang, Minhui and Lu, Peng},
   journal={Knowledge-Based Systems},
   year={2018},
