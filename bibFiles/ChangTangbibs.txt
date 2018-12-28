@@ -1,3 +1,35 @@
+@article{TangTMM2018, 
+author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Li, Miaomiao and Wang, Pichao and Zhang, Changqing and Wang, Lizhe}, 
+journal={IEEE Transactions on Multimedia}, 
+title={Learning a Joint Affinity Graph for Multiview Subspace Clustering}, 
+year={2018}, 
+doi={10.1109/TMM.2018.2889560},
+}
+
+@inproceedings{Tang2019AAAI,
+  title={Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection},
+  author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Wang, Lizhe},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  //pages={595--604},
+  year={2019}
+}
+
+@inproceedings{Liu2019AAAI,
+  title={Efficient and Effective Incomplete Multi-view Clustering},
+  author={Liu, Xinwang and Zhu, Xinzhong and Li, Miaomiao and Tang, Chang and Zhu, En and Yin, Jianping and Gao, Wen},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  //pages={595--604},
+  year={2019}
+}
+
+@article{XinwangPami2018, 
+author={Liu, Xinwang and Zhu, Xinzhong and Li, Miaomiao and Wang, Lei and Tang, Chang and Yin, Jianping and Shen, Dinggang and wang, Huaiming and Gao, Wen}, 
+//journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+journal={IEEE TPAMI},
+title={Late Fusion Incomplete Multi-view Clustering}, 
+year={2018},
+}
+
 @article{Tang2018OnlineCov,
   title={Online Human Action Recognition based on Incremental Learning of Weighted Covariance Descriptors},
   author={Tang, Chang and Li, Wanqing and Wang, Pichao and Wang, Lizhe},
