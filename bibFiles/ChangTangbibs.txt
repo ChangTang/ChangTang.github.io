@@ -6,6 +6,16 @@ year={2018},
 doi={10.1109/TMM.2018.2889560},
 }
 
+@article{li2018dual,
+  title={Dual graph regularized compact feature representation for unsupervised feature selection},
+  author={Li, Shaoyong and Tang, Chang and Liu, Xinwang and Liu, Yaping and Chen, Jiajia},
+  journal={Neurocomputing},
+  volume={331}, 
+  pages={77-96},
+  year={2019},
+  publisher={Elsevier}
+}
+
 @inproceedings{Tang2019AAAI,
   title={Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection},
   author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Wang, Lizhe},
