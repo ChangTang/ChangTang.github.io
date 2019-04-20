@@ -1,3 +1,12 @@
+@inproceedings{Tang2019CVPR,
+  title={DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features},
+  author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Wang, Lizhe and Albert, Zomaya},
+  booktitle={IEEE Computer Society Conference on Computer Vision and Pattern Recognition},
+  //booktitle={CVPR},
+  //pages={1--10},
+  year={2019}
+}
+
 @article{TangTMM2018, 
 author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Li, Miaomiao and Wang, Pichao and Zhang, Changqing and Wang, Lizhe}, 
 journal={IEEE Transactions on Multimedia}, 
@@ -20,7 +29,8 @@ doi={10.1109/TMM.2018.2889560},
   title={Cross-view Local Structure Preserved Diversity and Consensus Learning for Multi-view Unsupervised Feature Selection},
   author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Wang, Lizhe},
   booktitle={AAAI Conference on Artificial Intelligence},
-  //pages={595--604},
+  //booktitle={AAAI},
+  //pages={1--8},
   year={2019}
 }
 
