@@ -3,7 +3,7 @@
   author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Wang, Lizhe and Albert, Zomaya},
   booktitle={IEEE Computer Society Conference on Computer Vision and Pattern Recognition},
   //booktitle={CVPR},
-  //pages={1--10},
+  pages={2700--2709},
   year={2019}
 }
 
