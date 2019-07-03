@@ -11,7 +11,10 @@
 author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Li, Miaomiao and Wang, Pichao and Zhang, Changqing and Wang, Lizhe}, 
 journal={IEEE Transactions on Multimedia}, 
 title={Learning a Joint Affinity Graph for Multiview Subspace Clustering}, 
-year={2018}, 
+volume={21},
+number={7},
+pages={1724-1736},
+year={2019},
 doi={10.1109/TMM.2018.2889560},
 }
 
