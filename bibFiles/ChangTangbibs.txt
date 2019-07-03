@@ -1,3 +1,12 @@
+@article{TangTKDE2019, 
+author={Tang, Chang and Liu, Xinwang and Zhu, Xinzhong and Xiong, Jian and Li, Mioamiao and Xia, Jingyuan and Wang, Xiangke and Wang, Lizhe}, 
+journal={IEEE Transactions on Knowledge and Data Engineering}, 
+title={Feature Selective Projection with Low-Rank Embedding and Dual Laplacian Regularization}, 
+year={2019}, 
+pages={1-1}, 
+doi={10.1109/TKDE.2019.2911946}, 
+}
+
 @inproceedings{Tang2019CVPR,
   title={DeFusionNET: Defocus Blur Detection via Recurrently Fusing and Refining Multi-scale Deep Features},
   author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Wang, Lizhe and Albert, Zomaya},
