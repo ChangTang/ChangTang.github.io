@@ -1,3 +1,12 @@
+@article{TangTMM2019MultiLabel, 
+author={Tang, Chang and Liu, Xinwang and Wang, Pichao and Zhang, Changqing and Li, Miaomiao and Wang, Lizhe}, 
+journal={IEEE Transactions on Multimedia}, 
+title={Adaptive Hypergraph Embedded Semi-supervised Multi-label Image Annotation}, 
+year={2019}, 
+pages={1-1}, 
+doi={10.1109/TMM.2019.2909860}, 
+}
+
 @article{TangTKDE2019, 
 author={Tang, Chang and Liu, Xinwang and Zhu, Xinzhong and Xiong, Jian and Li, Mioamiao and Xia, Jingyuan and Wang, Xiangke and Wang, Lizhe}, 
 journal={IEEE Transactions on Knowledge and Data Engineering}, 
