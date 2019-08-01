@@ -51,7 +51,7 @@ doi={10.1109/TMM.2018.2889560},
   author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Wang, Lizhe},
   booktitle={AAAI Conference on Artificial Intelligence},
   //booktitle={AAAI},
-  //pages={1--8},
+  pages={5101--5108},
   year={2019}
 }
 
