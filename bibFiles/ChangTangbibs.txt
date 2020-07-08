@@ -1,3 +1,21 @@
+@inproceedings{tang2020cgd,
+  title={CGD: Multi-View Clustering via Cross-View Graph Diffusion.},
+  author={Tang, Chang and Liu, Xinwang and Zhu, Xinzhong and Zhu, En and Luo, Zhigang and Wang, Lizhe and Gao, Wen},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  pages={5924--5931},
+  year={2020}
+}
+
+@inproceedings{tang2020r2mrf,
+  title={R$^2$MRF: Defocus Blur Detection via Recurrently Refining Multi-Scale Residual Features},
+  author={Tang, Chang and Liu, Xinwang and Zhu, Xinzhong and Zhu, En and Sun, Kun and Wang, Pichao and Wang, Lizhe and Zomaya, Albert},
+  booktitle={AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={12063--12070},
+  year={2020}
+}
+
 @article{TangTMM2019MultiLabel, 
 author={Tang, Chang and Liu, Xinwang and Wang, Pichao and Zhang, Changqing and Li, Miaomiao and Wang, Lizhe}, 
 journal={IEEE Transactions on Multimedia}, 
