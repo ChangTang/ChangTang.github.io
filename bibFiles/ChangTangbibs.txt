@@ -20,8 +20,10 @@
 author={Tang, Chang and Liu, Xinwang and Wang, Pichao and Zhang, Changqing and Li, Miaomiao and Wang, Lizhe}, 
 journal={IEEE Transactions on Multimedia}, 
 title={Adaptive Hypergraph Embedded Semi-supervised Multi-label Image Annotation}, 
+volume={21},
+number={11},
+pages={2837-2849},
 year={2019}, 
-pages={1-1}, 
 doi={10.1109/TMM.2019.2909860}, 
 }
 
@@ -29,8 +31,10 @@ doi={10.1109/TMM.2019.2909860},
 author={Tang, Chang and Liu, Xinwang and Zhu, Xinzhong and Xiong, Jian and Li, Mioamiao and Xia, Jingyuan and Wang, Xiangke and Wang, Lizhe}, 
 journal={IEEE Transactions on Knowledge and Data Engineering}, 
 title={Feature Selective Projection with Low-Rank Embedding and Dual Laplacian Regularization}, 
-year={2019}, 
-pages={1-1}, 
+volume={32},
+number={9},
+pages={1747-1760},
+year={2020}, 
 doi={10.1109/TKDE.2019.2911946}, 
 }
 
