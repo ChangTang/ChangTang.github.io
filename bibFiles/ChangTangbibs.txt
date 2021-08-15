@@ -1,3 +1,36 @@
+@article{li2021consensus,
+  title={Consensus Graph Learning for Multi-view Clustering},
+  author={Li, Zhenglai and Tang, Chang and Liu, Xinwang and Zheng, Xiao and Yue, Guanghui and Zhang, Wei and Zhu, En},
+  journal={IEEE Transactions on Multimedia},
+  year={2021},
+  publisher={IEEE}
+}
+
+@inproceedings{li2021tensor,
+  title={Tensor-Based Multi-View Block-Diagonal Structure Diffusion for Clustering Incomplete Multi-View Data},
+  author={Li, Zhenglai and Tang, Chang and Liu, Xinwang and Zheng, Xiao and Zhang, Wei and Zhu, En},
+  booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
+}
+
+@article{tang2021cross,
+  title={Cross-view locality preserved diversity and consensus learning for multi-view unsupervised feature selection},
+  author={Tang, Chang and Zheng, Xiao and Liu, Xinwang and Zhang, Wei and Zhang, Jing and Xiong, Jian and Wang, Lizhe},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{tang2020defusionnet,
+  title={DeFusionNET: Defocus blur detection via recurrently fusing and refining discriminative multi-scale deep features},
+  author={Tang, Chang and Xinwang, LIU and Zheng, Xiao and Li, Wanqing and Xiong, Jian and Wang, Lizhe and Zomaya, Albert and Longo, Antonella},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2020},
+  publisher={IEEE}
+}
+
 @inproceedings{tang2020cgd,
   title={CGD: Multi-View Clustering via Cross-View Graph Diffusion.},
   author={Tang, Chang and Liu, Xinwang and Zhu, Xinzhong and Zhu, En and Luo, Zhigang and Wang, Lizhe and Gao, Wen},
