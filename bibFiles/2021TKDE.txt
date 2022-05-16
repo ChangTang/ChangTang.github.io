@@ -1,0 +1,7 @@
+@article{tang2021cross,
+  title={Cross-view locality preserved diversity and consensus learning for multi-view unsupervised feature selection},
+  author={Tang, Chang and Zheng, Xiao and Liu, Xinwang and Zhang, Wei and Zhang, Jing and Xiong, Jian and Wang, Lizhe},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2021},
+  publisher={IEEE}
+}

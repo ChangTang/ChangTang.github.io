@@ -1,0 +1,10 @@
+@article{tang2019feature,
+  title={Feature selective projection with low-rank embedding and dual Laplacian regularization},
+  author={Tang, Chang and Liu, Xinwang and Zhu, Xinzhong and Xiong, Jian and Li, Miaomiao and Xia, Jingyuan and Wang, Xiangke and Wang, Lizhe},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={32},
+  number={9},
+  pages={1747--1760},
+  year={2020},
+  publisher={IEEE}
+}

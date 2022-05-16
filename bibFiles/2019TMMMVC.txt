@@ -1,0 +1,10 @@
+@article{tang2018learning,
+  title={Learning a joint affinity graph for multiview subspace clustering},
+  author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Li, Miaomiao and Wang, Pichao and Zhang, Changqing and Wang, Lizhe},
+  journal={IEEE Transactions on Multimedia},
+  volume={21},
+  number={7},
+  pages={1724--1736},
+  year={2019},
+  publisher={IEEE}
+}
