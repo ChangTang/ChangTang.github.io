@@ -1,0 +1,7 @@
+@article{tang2022unified,
+  title={Unified One-step Multi-view Spectral Clustering},
+  author={Tang, Chang and Li, Zhenglai and Wang, Jun and Liu, Xinwang and Zhang, Wei and Zhu, En},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  year={2022},
+  publisher={IEEE}
+}
