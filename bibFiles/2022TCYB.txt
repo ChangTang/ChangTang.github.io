@@ -1,0 +1,7 @@
+@article{wang2022region,
+  title={Region-Aware Hierarchical Latent Feature Representation Learning-Guided Clustering for Hyperspectral Band Selection},
+  author={Wang, Jun and Tang, Chang and Liu, Xinwang and Zhang, Wei and Li, Wanqing and Zhu, Xinzhong and Wang, Lizhe and Zomaya, Albert Y},
+  journal={IEEE Transactions on Cybernetics},
+  year={2022},
+  publisher={IEEE}
+}

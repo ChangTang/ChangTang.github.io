@@ -1,0 +1,9 @@
+@inproceedings{liu2019efficient,
+  title={Efficient and effective incomplete multi-view clustering},
+  author={Liu, Xinwang and Zhu, Xinzhong and Li, Miaomiao and Tang, Chang and Zhu, En and Yin, Jianping and Gao, Wen},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  number={01},
+  pages={4392--4399},
+  year={2019}
+}

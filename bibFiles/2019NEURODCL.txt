@@ -1,0 +1,9 @@
+@article{li2019diversity,
+  title={Diversity and consistency learning guided spectral embedding for multi-view clustering},
+  author={Li, Zhenglai and Tang, Chang and Chen, Jiajia and Wan, Cheng and Yan, Weiqing and Liu, Xinwang},
+  journal={Neurocomputing},
+  volume={370},
+  pages={128--139},
+  year={2019},
+  publisher={Elsevier}
+}

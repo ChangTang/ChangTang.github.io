@@ -1,0 +1,8 @@
+@inproceedings{tang2019salient,
+  title={Salient object detection via recurrently aggregating spatial attention weighted cross-level deep features},
+  author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Wang, Pichao},
+  booktitle={2019 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1546--1551},
+  year={2019},
+  organization={IEEE}
+}

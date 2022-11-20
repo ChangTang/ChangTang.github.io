@@ -1,0 +1,10 @@
+@article{liu2018late,
+  title={Late fusion incomplete multi-view clustering},
+  author={Liu, Xinwang and Zhu, Xinzhong and Li, Miaomiao and Wang, Lei and Tang, Chang and Yin, Jianping and Shen, Dinggang and Wang, Huaimin and Gao, Wen},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={41},
+  number={10},
+  pages={2410--2423},
+  year={2018},
+  publisher={IEEE}
+}

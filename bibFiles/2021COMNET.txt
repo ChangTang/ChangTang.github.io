@@ -1,0 +1,9 @@
+@article{yang2021network,
+  title={A network traffic forecasting method based on SA optimized ARIMA--BP neural network},
+  author={Yang, Hanyu and Li, Xutao and Qiang, Wenhao and Zhao, Yuhan and Zhang, Wei and Tang, Chang},
+  journal={Computer Networks},
+  volume={193},
+  pages={108102},
+  year={2021},
+  publisher={Elsevier}
+}

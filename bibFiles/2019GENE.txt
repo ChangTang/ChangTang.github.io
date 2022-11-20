@@ -1,0 +1,9 @@
+@article{zheng2019gene,
+  title={Gene selection for microarray data classification via adaptive hypergraph embedded dictionary learning},
+  author={Zheng, Xiao and Zhu, Wenyang and Tang, Chang and Wang, Minhui},
+  journal={Gene},
+  volume={706},
+  pages={188--200},
+  year={2019},
+  publisher={Elsevier}
+}

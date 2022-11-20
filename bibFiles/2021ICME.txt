@@ -1,0 +1,8 @@
+@inproceedings{li2021tensor,
+  title={Tensor-Based Multi-View Block-Diagonal Structure Diffusion for Clustering Incomplete Multi-View Data},
+  author={Li, Zhenglai and Tang, Chang and Liu, Xinwang and Zheng, Xiao and Zhang, Wei and Zhu, En},
+  booktitle={2021 IEEE International Conference on Multimedia and Expo (ICME)},
+  pages={1--6},
+  year={2021},
+  organization={IEEE}
+}

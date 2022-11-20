@@ -1,0 +1,9 @@
+@article{li2019dual,
+  title={Dual graph regularized compact feature representation for unsupervised feature selection},
+  author={Li, Shaoyong and Tang, Chang and Liu, Xinwang and Liu, Yaping and Chen, Jiajia},
+  journal={Neurocomputing},
+  volume={331},
+  pages={77--96},
+  year={2019},
+  publisher={Elsevier}
+}

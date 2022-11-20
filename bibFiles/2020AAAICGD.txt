@@ -1,0 +1,9 @@
+@inproceedings{tang2020cgd,
+  title={CGD: Multi-view clustering via cross-view graph diffusion},
+  author={Tang, Chang and Liu, Xinwang and Zhu, Xinzhong and Zhu, En and Luo, Zhigang and Wang, Lizhe and Gao, Wen},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={04},
+  pages={5924--5931},
+  year={2020}
+}

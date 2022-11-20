@@ -1,0 +1,9 @@
+@article{liu2021global,
+  title={Global Context and Enhanced Feature Guided Residual Refinement Network for 3D Cardiovascular Image Segmentation},
+  author={Liu, Jingjing and Wei, Ao and Guo, Zhigang and Tang, Chang},
+  journal={IEEE Access},
+  volume={9},
+  pages={155861--155870},
+  year={2021},
+  publisher={IEEE}
+}

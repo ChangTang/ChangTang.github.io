@@ -1,0 +1,9 @@
+@article{yan2020shape,
+  title={Shape-optimizing mesh warping method for stereoscopic panorama stitching},
+  author={Yan, Weiqing and Yue, Guanghui and Xu, Jindong and Yu, Yanwei and Wang, Kai and Tang, Chang and Tong, Xiangrong},
+  journal={Information Sciences},
+  volume={511},
+  pages={58--73},
+  year={2020},
+  publisher={Elsevier}
+}

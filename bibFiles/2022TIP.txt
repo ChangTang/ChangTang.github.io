@@ -1,0 +1,9 @@
+@article{li2022high,
+  title={High-order correlation preserved incomplete multi-view subspace clustering},
+  author={Li, Zhenglai and Tang, Chang and Zheng, Xiao and Liu, Xinwang and Zhang, Wei and Zhu, En},
+  journal={IEEE Transactions on Image Processing},
+  volume={31},
+  pages={2067--2080},
+  year={2022},
+  publisher={IEEE}
+}

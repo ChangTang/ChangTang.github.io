@@ -1,0 +1,7 @@
+@inproceedings{tang2021hyperspectral,
+  title={Hyperspectral Band Selection via Spatial-Spectral Weighted Region-wise Multiple Graph Fusion-Based Spectral Clustering.},
+  author={Tang, Chang and Liu, Xinwang and Zhu, En and Wang, Lizhe and Zomaya, Albert Y},
+  booktitle={IJCAI},
+  pages={3038--3044},
+  year={2021}
+}

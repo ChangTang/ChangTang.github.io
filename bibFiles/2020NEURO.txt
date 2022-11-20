@@ -1,0 +1,9 @@
+@article{ding2020unsupervised,
+  title={Unsupervised feature selection via adaptive hypergraph regularized latent representation learning},
+  author={Ding, Deqiong and Yang, Xiaogao and Xia, Fei and Ma, Tiefeng and Liu, Haiyun and Tang, Chang},
+  journal={Neurocomputing},
+  volume={378},
+  pages={79--97},
+  year={2020},
+  publisher={Elsevier}
+}

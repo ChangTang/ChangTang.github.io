@@ -1,0 +1,9 @@
+@article{li2019robust,
+  title={Robust multi-view clustering with a unified weight learning paradigm},
+  author={Li, Miaomiao and Li, Zhenglai and Tang, Chang and Liu, Xinwang and Wang, Lulu},
+  journal={IEEE Access},
+  volume={7},
+  pages={177965--177973},
+  year={2019},
+  publisher={IEEE}
+}

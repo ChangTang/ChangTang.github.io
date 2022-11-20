@@ -1,0 +1,9 @@
+@article{tang2019unsupervised,
+  title={Unsupervised feature selection via latent representation learning and manifold regularization},
+  author={Tang, Chang and Bian, Meiru and Liu, Xinwang and Li, Miaomiao and Zhou, Hua and Wang, Pichao and Yin, Hailin},
+  journal={Neural Networks},
+  volume={117},
+  pages={163--178},
+  year={2019},
+  publisher={Elsevier}
+}

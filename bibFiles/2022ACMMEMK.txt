@@ -1,0 +1,7 @@
+@inproceedings{tang2022efficient,
+  title={Efficient Multiple Kernel Clustering via Spectral Perturbation},
+  author={Tang, Chang and Li, Zhenglai and Yan, Weiqing and Yue, Guanghui and Zhang, Wei},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={1603--1611},
+  year={2022}
+}

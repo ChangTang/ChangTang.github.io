@@ -1,0 +1,10 @@
+@article{wang2018depth,
+  title={Depth pooling based large-scale 3-d action recognition with convolutional neural networks},
+  author={Wang, Pichao and Li, Wanqing and Gao, Zhimin and Tang, Chang and Ogunbona, Philip O},
+  journal={IEEE Transactions on Multimedia},
+  volume={20},
+  number={5},
+  pages={1051--1061},
+  year={2018},
+  publisher={IEEE}
+}

@@ -1,0 +1,7 @@
+@inproceedings{liu2021localized,
+  title={Localized simple multiple kernel k-means},
+  author={Liu, Xinwang and Zhou, Sihang and Liu, Li and Tang, Chang and Wang, Siwei and Liu, Jiyuan and Zhang, Yi},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={9293--9301},
+  year={2021}
+}

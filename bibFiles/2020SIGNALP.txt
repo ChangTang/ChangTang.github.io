@@ -1,0 +1,9 @@
+@article{yan2020perceptual,
+  title={Perceptual objective quality assessment of stereoscopic stitched images},
+  author={Yan, Weiqing and Yue, Guanghui and Fang, Yuming and Chen, Hua and Tang, Chang and Jiang, Gangyi},
+  journal={Signal Processing},
+  volume={172},
+  pages={107541},
+  year={2020},
+  publisher={Elsevier}
+}

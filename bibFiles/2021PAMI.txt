@@ -1,0 +1,10 @@
+@article{liu2020efficient,
+  title={Efficient and effective regularized incomplete multi-view clustering},
+  author={Liu, Xinwang and Li, Miaomiao and Tang, Chang and Xia, Jingyuan and Xiong, Jian and Liu, Li and Kloft, Marius and Zhu, En},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  volume={43},
+  number={8},
+  pages={2634--2646},
+  year={2020},
+  publisher={IEEE}
+}

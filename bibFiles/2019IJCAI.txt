@@ -1,0 +1,7 @@
+@inproceedings{wang2019multi,
+  title={Multi-view Clustering via Late Fusion Alignment Maximization.},
+  author={Wang, Siwei and Liu, Xinwang and Zhu, En and Tang, Chang and Liu, Jiyuan and Hu, Jingtao and Xia, Jingyuan and Yin, Jianping},
+  booktitle={IJCAI},
+  pages={3778--3784},
+  year={2019}
+}

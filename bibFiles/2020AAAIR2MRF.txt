@@ -1,0 +1,9 @@
+@inproceedings{tang2020r2mrf,
+  title={R$^2$MRF: Defocus Blur Detection via Recurrently Refining Multi-Scale Residual Features},
+  author={Tang, Chang and Liu, Xinwang and Zhu, Xinzhong and Zhu, En and Sun, Kun and Wang, Pichao and Wang, Lizhe and Zomaya, Albert},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={34},
+  number={07},
+  pages={12063--12070},
+  year={2020}
+}

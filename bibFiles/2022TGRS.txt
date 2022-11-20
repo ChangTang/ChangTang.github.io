@@ -1,0 +1,9 @@
+@article{li2022remote,
+  title={Remote Sensing Change Detection via Temporal Feature Interaction and Guided Refinement},
+  author={Li, Zhenglai and Tang, Chang and Wang, Lizhe and Zomaya, Albert Y},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--11},
+  year={2022},
+  publisher={IEEE}
+}

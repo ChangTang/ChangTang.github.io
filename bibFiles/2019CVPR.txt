@@ -2,8 +2,6 @@
   title={DeFusionNET: Defocus blur detection via recurrently fusing and refining discriminative multi-scale deep features},
   author={Tang, Chang and Xinwang, LIU and Zheng, Xiao and Li, Wanqing and Xiong, Jian and Wang, Lizhe and Zomaya, Albert and Longo, Antonella},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  volume={44},
-  number={2},
-  pages=955--968},
-  year={2022},
+  year={2020},
   publisher={IEEE}
+}

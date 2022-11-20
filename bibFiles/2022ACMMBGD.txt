@@ -1,0 +1,7 @@
+@inproceedings{yan2022bipartite,
+  title={Bipartite Graph-based Discriminative Feature Learning for Multi-View Clustering},
+  author={Yan, Weiqing and Xu, Jindong and Liu, Jinglei and Yue, Guanghui and Tang, Chang},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={3403--3411},
+  year={2022}
+}

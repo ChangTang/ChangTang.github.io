@@ -1,0 +1,9 @@
+@article{li2022unified,
+  title={Unified K-means coupled self-representation and neighborhood kernel learning for clustering single-cell RNA-sequencing data},
+  author={Li, Zheng and Tang, Chang and Zheng, Xiao and Li, Zhenglai and Zhang, Wei and Cao, Lijuan},
+  journal={Neurocomputing},
+  volume={501},
+  pages={715--726},
+  year={2022},
+  publisher={Elsevier}
+}

@@ -1,0 +1,9 @@
+@article{wang2022graph,
+  title={Graph regularized spatial--spectral subspace clustering for hyperspectral band selection},
+  author={Wang, Jun and Tang, Chang and Zheng, Xiao and Liu, Xinwang and Zhang, Wei and Zhu, En},
+  journal={Neural Networks},
+  volume={153},
+  pages={292--302},
+  year={2022},
+  publisher={Elsevier}
+}

@@ -1,0 +1,8 @@
+@inproceedings{liu2021one,
+  title={One pass late fusion multi-view clustering},
+  author={Liu, Xinwang and Liu, Li and Liao, Qing and Wang, Siwei and Zhang, Yi and Tu, Wenxuan and Tang, Chang and Liu, Jiyuan and Zhu, En},
+  booktitle={International Conference on Machine Learning},
+  pages={6850--6859},
+  year={2021},
+  organization={PMLR}
+}

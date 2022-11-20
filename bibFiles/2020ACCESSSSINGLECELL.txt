@@ -1,0 +1,9 @@
+@article{zheng2020single,
+  title={Single-Cell RNA-Sequencing Data Clustering via Locality Preserving Kernel Matrix Alignment},
+  author={Zheng, Xiao and Chen, Jiajia and Tang, Chang and Zhou, Suqin},
+  journal={IEEE Access},
+  volume={8},
+  pages={201577--201594},
+  year={2020},
+  publisher={IEEE}
+}

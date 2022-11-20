@@ -2,9 +2,6 @@
   title={Cross-view locality preserved diversity and consensus learning for multi-view unsupervised feature selection},
   author={Tang, Chang and Zheng, Xiao and Liu, Xinwang and Zhang, Wei and Zhang, Jing and Xiong, Jian and Wang, Lizhe},
   journal={IEEE Transactions on Knowledge and Data Engineering},
-  volume={34},
-  number={10},
-  pages={4705--4716},
-  year={2022},
+  year={2021},
   publisher={IEEE}
 }

@@ -1,0 +1,9 @@
+@inproceedings{tang2019cross,
+  title={Cross-view local structure preserved diversity and consensus learning for multi-view unsupervised feature selection},
+  author={Tang, Chang and Zhu, Xinzhong and Liu, Xinwang and Wang, Lizhe},
+  booktitle={Proceedings of the AAAI Conference on artificial intelligence},
+  volume={33},
+  number={01},
+  pages={5101--5108},
+  year={2019}
+}

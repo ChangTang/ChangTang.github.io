@@ -1,0 +1,9 @@
+@article{li2021consensus,
+  title={Consensus graph learning for multi-view clustering},
+  author={Li, Zhenglai and Tang, Chang and Liu, Xinwang and Zheng, Xiao and Zhang, Wei and Zhu, En},
+  journal={IEEE Transactions on Multimedia},
+  volume={24},
+  pages={2461--2472},
+  year={2021},
+  publisher={IEEE}
+}

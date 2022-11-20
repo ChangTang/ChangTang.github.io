@@ -1,0 +1,10 @@
+@article{ding2020joint,
+  title={Joint dictionary and graph learning for unsupervised feature selection},
+  author={Ding, Deqiong and Xia, Fei and Yang, Xiaogao and Tang, Chang},
+  journal={Applied Intelligence},
+  volume={50},
+  number={5},
+  pages={1379--1397},
+  year={2020},
+  publisher={Springer}
+}

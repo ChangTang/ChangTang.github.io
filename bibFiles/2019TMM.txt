@@ -1,0 +1,10 @@
+@article{tang2019adaptive,
+  title={Adaptive hypergraph embedded semi-supervised multi-label image annotation},
+  author={Tang, Chang and Liu, Xinwang and Wang, Pichao and Zhang, Changqing and Li, Miaomiao and Wang, Lizhe},
+  journal={IEEE Transactions on Multimedia},
+  volume={21},
+  number={11},
+  pages={2837--2849},
+  year={2019},
+  publisher={IEEE}
+}

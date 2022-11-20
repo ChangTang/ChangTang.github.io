@@ -1,0 +1,10 @@
+@article{tang2019dual,
+  title={Dual Laplacian regularized matrix completion for microRNA-disease associations prediction},
+  author={Tang, Chang and Zhou, Hua and Zheng, Xiao and Zhang, Yanming and Sha, Xiaofeng},
+  journal={RNA biology},
+  volume={16},
+  number={5},
+  pages={601--611},
+  year={2019},
+  publisher={Taylor \& Francis}
+}

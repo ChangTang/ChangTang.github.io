@@ -1,0 +1,10 @@
+@article{zhao2019simultaneous,
+  title={Simultaneous clustering and optimization for evolving datasets},
+  author={Zhao, Yawei and Zhu, En and Liu, Xinwang and Tang, Chang and Guo, Deke and Yin, Jianping},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={33},
+  number={1},
+  pages={259--270},
+  year={2019},
+  publisher={IEEE}
+}
