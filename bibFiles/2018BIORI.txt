@@ -1,0 +1,7 @@
+@article{wang2018drug,
+  title={Drug-target interaction prediction via dual Laplacian graph regularized matrix completion},
+  author={Wang, Minhui and Tang, Chang and Chen, Jiajia},
+  journal={BioMed Research International},
+  volume={2018},
+  year={2018},
+  publisher={Hindawi}

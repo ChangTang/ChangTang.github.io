@@ -1,0 +1,10 @@
+@article{tang2015depth,
+  title={Depth recovery and refinement from a single image using defocus cues},
+  author={Tang, Chang and Hou, Chunping and Song, Zhanjie},
+  journal={Journal of Modern Optics},
+  volume={62},
+  number={6},
+  pages={441--448},
+  year={2015},
+  publisher={Taylor \& Francis}
+}

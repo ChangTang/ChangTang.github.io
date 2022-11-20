@@ -1,0 +1,10 @@
+@article{tang2016spectral,
+  title={A spectral and spatial approach of coarse-to-fine blurred image region detection},
+  author={Tang, Chang and Wu, Jin and Hou, Yonghong and Wang, Pichao and Li, Wanqing},
+  journal={IEEE Signal Processing Letters},
+  volume={23},
+  number={11},
+  pages={1652--1656},
+  year={2016},
+  publisher={IEEE}
+}

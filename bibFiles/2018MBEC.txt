@@ -1,0 +1,10 @@
+@article{tang2018gene,
+  title={Gene selection for microarray data classification via subspace learning and manifold regularization},
+  author={Tang, Chang and Cao, Lijuan and Zheng, Xiao and Wang, Minhui},
+  journal={Medical \& biological engineering \& computing},
+  volume={56},
+  number={7},
+  pages={1271--1284},
+  year={2018},
+  publisher={Springer}
+}

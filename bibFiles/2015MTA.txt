@@ -1,0 +1,10 @@
+@article{tang2016salient,
+  title={Salient object detection using color spatial distribution and minimum spanning tree weight},
+  author={Tang, Chang and Hou, Chunping and Wang, Pichao and Song, Zhanjie},
+  journal={Multimedia Tools and Applications},
+  volume={75},
+  number={12},
+  pages={6963--6978},
+  year={2016},
+  publisher={Springer}
+}

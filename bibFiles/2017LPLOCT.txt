@@ -1,0 +1,10 @@
+@article{tang2017oct,
+  title={OCT despeckling via weighted nuclear norm constrained non-local low-rank representation},
+  author={Tang, Chang and Zheng, Xiao and Cao, Lijuan},
+  journal={Laser Physics Letters},
+  volume={14},
+  number={10},
+  pages={106001},
+  year={2017},
+  publisher={IOP Publishing}
+}

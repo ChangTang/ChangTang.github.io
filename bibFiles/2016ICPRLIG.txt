@@ -1,0 +1,8 @@
+@inproceedings{wang2016large,
+  title={Large-scale isolated gesture recognition using convolutional neural networks},
+  author={Wang, Pichao and Li, Wanqing and Liu, Song and Gao, Zhimin and Tang, Chang and Ogunbona, Philip},
+  booktitle={2016 23rd International Conference on Pattern Recognition (ICPR)},
+  pages={7--12},
+  year={2016},
+  organization={IEEE}
+}

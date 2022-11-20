@@ -1,0 +1,8 @@
+@inproceedings{zhang2016large,
+  title={A large scale rgb-d dataset for action recognition},
+  author={Zhang, Jing and Li, Wanqing and Wang, Pichao and Ogunbona, Philip and Liu, Song and Tang, Chang},
+  booktitle={International workshop on understanding human activities through 3D sensors},
+  pages={101--114},
+  year={2016},
+  organization={Springer}
+}

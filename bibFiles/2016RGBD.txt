@@ -1,0 +1,9 @@
+@article{zhang2016rgb,
+  title={RGB-D-based action recognition datasets: A survey},
+  author={Zhang, Jing and Li, Wanqing and Ogunbona, Philip O and Wang, Pichao and Tang, Chang},
+  journal={Pattern Recognition},
+  volume={60},
+  pages={86--105},
+  year={2016},
+  publisher={Elsevier}
+}

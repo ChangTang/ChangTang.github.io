@@ -1,0 +1,7 @@
+@inproceedings{wang2015beyond,
+  title={Beyond covariance: Feature representation with nonlinear kernel matrices},
+  author={Wang, Lei and Zhang, Jianjia and Zhou, Luping and Tang, Chang and Li, Wanqing},
+  booktitle={Proceedings of the IEEE international conference on computer vision},
+  pages={4570--4578},
+  year={2015}
+}

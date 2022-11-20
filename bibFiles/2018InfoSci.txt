@@ -1,0 +1,9 @@
+@article{tang2018online,
+  title={Online human action recognition based on incremental learning of weighted covariance descriptors},
+  author={Tang, Chang and Li, Wanqing and Wang, Pichao and Wang, Lizhe},
+  journal={Information Sciences},
+  volume={467},
+  pages={219--237},
+  year={2018},
+  publisher={Elsevier}
+}

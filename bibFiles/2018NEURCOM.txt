@@ -1,0 +1,9 @@
+@article{zhu2018saliency,
+  title={Saliency detection via affinity graph learning and weighted manifold ranking},
+  author={Zhu, Xinzhong and Tang, Chang and Wang, Pichao and Xu, Huiying and Wang, Minhui and Chen, Jiajia and Tian, Jie},
+  journal={Neurocomputing},
+  volume={312},
+  pages={239--250},
+  year={2018},
+  publisher={Elsevier}
+}

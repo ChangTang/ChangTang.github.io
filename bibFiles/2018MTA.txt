@@ -1,0 +1,10 @@
+@article{wang2018combining,
+  title={Combining convnets with hand-crafted features for action recognition based on an HMM-SVM classifier},
+  author={Wang, Shuang and Hou, Yonghong and Li, Zhaoyang and Dong, Jiarong and Tang, Chang},
+  journal={Multimedia Tools and Applications},
+  volume={77},
+  number={15},
+  pages={18983--18998},
+  year={2018},
+  publisher={Springer}
+}

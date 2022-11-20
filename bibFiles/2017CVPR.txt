@@ -1,0 +1,7 @@
+@inproceedings{wang2017scene,
+  title={Scene flow to action map: A new representation for rgb-d based action recognition with convolutional neural networks},
+  author={Wang, Pichao and Li, Wanqing and Gao, Zhimin and Zhang, Yuyao and Tang, Chang and Ogunbona, Philip},
+  booktitle={Proceedings of the IEEE conference on computer vision and pattern recognition},
+  pages={595--604},
+  year={2017}
+}
