@@ -4,6 +4,7 @@
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
   volume={44},
   number={2},
-  pages=955--968},
+  pages={955--968},
   year={2022},
   publisher={IEEE}
+  }
