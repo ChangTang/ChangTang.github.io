@@ -1,5 +1,5 @@
 @article{tang2020br,
-  title={BR $\^{} 2$ Net: Defocus Blur Detection Via a Bidirectional Channel Attention Residual Refining Network},
+  title={BR $^2$ Net: Defocus Blur Detection Via a Bidirectional Channel Attention Residual Refining Network},
   author={Tang, Chang and Liu, Xinwang and An, Shan and Wang, Pichao},
   journal={IEEE Transactions on Multimedia},
   volume={23},
