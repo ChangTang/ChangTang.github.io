@@ -4,6 +4,6 @@
   journal={IEEE Transactions on Multimedia},
   volume={24},
   pages={2461--2472},
-  year={2021},
+  year={2022},
   publisher={IEEE}
 }
