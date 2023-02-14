@@ -1,5 +1,5 @@
 @article{tang2022SCIS,
-  title={Unsupervised Feature Selection via Multiple Graph Fusion and Feature Weight Learning", SCIENCE CHINA Information Sciences},
+  title={Unsupervised Feature Selection via Multiple Graph Fusion and Feature Weight Learning},
   author={Tang, Chang and Zheng, Xiao and Zhang, Wei and Liu, Xinwang and Zhu, Xinzhong and Zhu, En},
   journal={SCIENCE CHINA Information Sciences},
   year={2022}
