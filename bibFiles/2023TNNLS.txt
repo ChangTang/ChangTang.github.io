@@ -1,0 +1,7 @@
+@article{2023TNNLS,
+  title={Efficient and Effective One-step Multi-view Clustering},
+author={Wang, Jun and Tang, Chang and Wan, Zhiguo and Zhang, Wei and Sun, Kun and Zomaya, Albert Y},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2023},
+  publisher={IEEE}
+}
